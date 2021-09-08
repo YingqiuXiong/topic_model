@@ -6,3 +6,4 @@
     iterationNum: 迭代次数
     seed_topic_list: 种子词表
     outputDir: 存储结果的文件夹
+注：运行前记得把环境依赖安装上
