@@ -1,4 +1,3 @@
 guidedlda == 2.0.0.dev22
-pickleshare == 0.7.5
 tqdm == 4.61.2
 numpy == 1.19.5
